@@ -1,4 +1,5 @@
 def second_challenge
-pic_tragedy = {
-  :montague => {}
+epic_tragedy = {
+  :montague => {},
+  :capulet => {}
 }
