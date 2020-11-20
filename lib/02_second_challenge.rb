@@ -1,0 +1,3 @@
+epic_tragedy = {
+  :montague => {}
+}
